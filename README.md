@@ -9,10 +9,8 @@ Currently studing `Analysis and Development of Systems` at 🎓`Estácio de Sá`
 
 ### Languages
  
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007396)
 ![Cs](https://img.shields.io/badge/-Cs-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
