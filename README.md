@@ -22,6 +22,7 @@ Currently studing `Analysis and Development of Systems` at 🎓`Estácio de Sá`
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![vue.js](https://img.shields.io/badge/-vue.js-000?&logo=Vue.js)
 
 ## Lest's Create Something!
   
