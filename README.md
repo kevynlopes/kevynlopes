@@ -1,6 +1,6 @@
 <div align='center'>
- <a href='https://github.com/kevynlopes/imLymei/blob/main/README.md'><kbd><img title="United States English" alt="United State English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></kbd></a>
- <a href='https://github.com/kevynlopes/imLymei/blob/main/README_PT_BR.md'><kbd><img title="Português Brasil" alt="Português Brasil" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd></a>
+ <a href='https://github.com/kevynlopes/kevynlopes/blob/main/README.md'><kbd><img title="United States English" alt="United State English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></kbd></a>
+ <a href='https://github.com/kevynlopes/kevynlopes/blob/main/README_PT_BR.md'><kbd><img title="Português Brasil" alt="Português Brasil" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd></a>
 </div>
 
 <br/>
