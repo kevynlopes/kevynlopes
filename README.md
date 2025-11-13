@@ -1,17 +1,68 @@
-# 💫 About Me:
-Fullstack Developer based in Brazil<br>Currently studing Analysis and Development of Systems at Estácio de Sá.<br>Currently work at GoStartLab.
+<div align='center'>
+ <a href='https://github.com/kevynlopes/imLymei/blob/main/README.md'><kbd><img title="United States English" alt="United State English" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/us.svg" width="22"></kbd></a>
+ <a href='https://github.com/kevynlopes/imLymei/blob/main/README_PT_BR.md'><kbd><img title="Português Brasil" alt="Português Brasil" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/br.svg" width="22"></kbd></a>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kevyn-lopes-a5486b242/) 
+![Hello World Dark Mode](./src/hello_world_dark.png#gh-dark-mode-only)
+![Hello World Light Mode](./src/hello_world_light.png#gh-light-mode-only)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kevynlopes&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kevynlopes&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevynlopes&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+👋Hello! My name is `Kevyn Lopes` and i am a programming student focused on becoming a 🧑‍💻`Full Stack Developer`.
+Graduated in `Analysis and Development of Systems` at 🎓`Estácio de SA`. Currently working at 🏫`3TI Softwares`, working as a full-stack developer.
 
+## Qualifications
+
+### Languages
+ 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
+![Cs](https://img.shields.io/badge/-C%23-000?&logo=c%23)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
+
+### Technologies
+
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+
+## Languages Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 11 May 2023 - To: 12 November 2025
+
+Total Time: 1,769 hrs 20 mins
+
+TypeScript       1,246 hrs       >>>>>>>>>>>>>>>>>>-------   70.42 %
+Python           115 hrs 12 mins >>-----------------------   06.51 %
+JavaScript       102 hrs 3 mins  >------------------------   05.77 %
+HTML             56 hrs 33 mins  >------------------------   03.20 %
+Rust             49 hrs 7 mins   >------------------------   02.78 %
+JSON             41 hrs 51 mins  >------------------------   02.37 %
+Markdown         26 hrs 8 mins   -------------------------   01.48 %
+GDScript3        22 hrs 1 min    -------------------------   01.24 %
+C#               21 hrs 9 mins   -------------------------   01.20 %
+YAML             15 hrs 53 mins  -------------------------   00.90 %
+```
+
+<!--END_SECTION:waka-->
+ 
+</div>
+
+## Lest's Create Something!
+  
+[![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)](mailto:kevynlopes2019@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/kevyn-willyans-de-faria-lopes-a5486b242/)
