@@ -17,10 +17,8 @@ Graduated in `Analysis and Development of Systems` at 🎓`Estácio de SA`. Curr
 
 ### Languages
  
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Cs](https://img.shields.io/badge/-C%23-000?&logo=c%23)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 
@@ -33,7 +31,6 @@ Graduated in `Analysis and Development of Systems` at 🎓`Estácio de SA`. Curr
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
 ## Languages Stats
 
