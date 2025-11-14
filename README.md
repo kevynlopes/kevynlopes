@@ -5,9 +5,6 @@
 
 <br/>
 
-![Hello World Dark Mode](./src/hello_world_dark.png#gh-dark-mode-only)
-![Hello World Light Mode](./src/hello_world_light.png#gh-light-mode-only)
-
 # About Me
 
 👋Hello! My name is `Kevyn Lopes` and i am a programming student focused on becoming a 🧑‍💻`Full Stack Developer`.
